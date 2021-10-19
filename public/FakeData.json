@@ -1,0 +1,92 @@
+ [
+  {
+    "id": "1",
+    "name": "Dr. Rahman Chowdhury",
+    "qualifications": "MBBS,Ophthalmology ",
+    "designation": "Phaco Surgeon",
+    "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+    "chamberTime": "Friday-6:00 PM-09:00 PM",
+    "roomNumber": "401"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Yesmin Sultana",
+    "qualifications": "MBBS,Ophthalmology ",
+    "designation": "Vitreo-Retina Surgeon",
+    "img": "https://st2.depositphotos.com/3889193/7657/i/950/depositphotos_76570869-stock-photo-confident-female-doctor-posing-in.jpg",
+    "chamberTime": "Saturday-6:00 PM-09:00 PM",
+    "roomNumber": "402"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Rahman Rafiq",
+    "qualifications": "MBBS,Ophthalmology,MCPS,FCPS ",
+    "designation": "Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://us.123rf.com/450wm/rido/rido1704/rido170400095/76465313-portrait-of-smiling-doctor-with-stethoscope-around-his-neck-at-medical-clinic-happy-smiling-senior-d.jpg?ver=6",
+    "chamberTime": "Sunday-6:00 PM-09:00 PM",
+    "roomNumber": "403"
+  },
+  {
+    "id": "4",
+    "name": "Dr.Haider Khan",
+    "qualifications": "MBBS,MCPS,MS ",
+    "designation": "Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://media.istockphoto.com/photos/portrait-of-a-doctor-picture-id92347287?k=20&m=92347287&s=612x612&w=0&h=_vPaOKo3wrZd8FG_Y9WR6yAa4OYXf8OXGRZ6X2qk6aM=",
+    "chamberTime": "Monday-6:00 PM-09:00 PM",
+    "roomNumber": "404"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Md.Ashiq Rahman",
+    "qualifications": "MBBS,MCPS ",
+    "designation": "Oculoplastics & Phaco Surgeon",
+    "img": "https://t4.ftcdn.net/jpg/01/36/18/77/360_F_136187711_qeBMOwkPdTg1dCN8e5TR1AmduXDz60Xn.jpg",
+    "chamberTime": "Tuesday-6:00 PM-09:00 PM",
+    "roomNumber": "405"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Afroza khanom",
+    "qualifications": "MBBS,MCPS,Pediatric Ophthalmology  ",
+    "designation": "Pediatric Ophthalmologist",
+    "img": "https://www.healthpages.org/wp-content/uploads/2010/04/female-doctor-patient-chart-570x300.jpg",
+    "chamberTime": "Wednesday-6:00 PM-09:00 PM",
+    "roomNumber": "406"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Anna Rashed",
+    "qualifications": "MBBS,MCPS,Vitreo-Retinal  ",
+    "designation": "Vitreo-Retina & Phaco Surgeon",
+    "img": "https://thumbs.dreamstime.com/b/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+    "chamberTime": "Thursday-6:00 PM-09:00 PM",
+    "roomNumber": "407"
+  },
+  {
+    "id": "8",
+    "name": "Dr. Sarwar Jahan Muktafi",
+    "qualifications": "MBBS,MCPS,ECFMG  ",
+    "designation": " Ophthalmologist, Cataract, Medical Retina & Oculoplasty Specialist",
+    "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+    "chamberTime": "Friday-6:00 PM-09:00 PM",
+    "roomNumber": "408"
+  },
+  {
+    "id": "9",
+    "name": "Dr Md Riajul Islam",
+    "qualifications": "MBBS,MCPS,FCPS  ",
+    "designation": " Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://previews.123rf.com/images/imagedb/imagedb1108/imagedb110802313/10124306-portrait-of-a-doctor-smiling.jpg",
+    "chamberTime": "Saturday-6:00 PM-09:00 PM",
+    "roomNumber": "409"
+  },
+  {
+    "id": "10",
+    "name": "Dr abul kalam",
+    "qualifications": "MBBS,Ophthalmology,FCPS  ",
+    "designation": "  Uveitis Specialist",
+    "img": "data:image/jpeg;base64,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",
+    "chamberTime": "Sunday-6:00 PM-09:00 PM",
+    "roomNumber": "410"
+  }
+]
